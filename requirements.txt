@@ -1,0 +1,13 @@
+requests
+termcolor
+python-telegram-bot
+pyrofork
+TgCrypto
+Pillow
+aiogram
+aiohttp
+opencv-python-headless
+uvloop
+flask
+dnspython
+aiofiles==23.2.1
